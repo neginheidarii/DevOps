@@ -1,0 +1,12 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "-#comp3104",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devops","nodejs", "express","web"],
+  "author": "Negin Heidari",
+  "license": "ISC"
+}
