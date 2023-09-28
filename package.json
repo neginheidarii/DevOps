@@ -4,9 +4,15 @@
   "description": "-#comp3104",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
   },
-  "keywords": ["devops","nodejs", "express","web"],
+  "keywords": [
+    "devops",
+    "nodejs",
+    "express",
+    "web"
+  ],
   "author": "Negin Heidari",
   "license": "ISC"
 }
